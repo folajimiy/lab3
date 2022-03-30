@@ -23,6 +23,7 @@ public class Lab3 extends Application {
 	     	 *	4) User enters  a list of x and o positions for the TicTacToe board from the console using System.in
 	     	 *      5) program calls tictacBoard method with a two-dimensional array of strings
 		 *      6) In stage s2, program displays the visualization of a tic-tac-toe board from the ticTacBoard method call
+		 
 		 */			
 	
 	}
